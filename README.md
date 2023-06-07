@@ -1,8 +1,6 @@
 # **RA Rich Presence script UDL for Notepad++**
 A User Defined Language XML for Notepad++ that highlights the syntax for Rich Presence script. Used in developing RetroAchievements.
 
-If you know how to install custom UDL files in Notepad++ you can move on to this section if you want to see the highlighting in action.
-
 ## Installing A Custom UDL File
 
 ### Installation and activation
