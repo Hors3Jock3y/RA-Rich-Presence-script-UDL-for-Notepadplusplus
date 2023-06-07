@@ -27,8 +27,9 @@ A User Defined Language XML for Notepad++ that highlights the syntax for Rich Pr
 
 # The UDL In Action
 
-![Screenshot 2023-06-07 010815](https://github.com/Hors3Jock3y/RA-Rich-Presence-script-UDL-for-Notepadplusplus/assets/135405178/72d711f1-be46-4b3c-8c72-9e9f97bc0434)
-<sub>The RP Script from Phoenix (Atari 2600)</sub>
+![Screenshot 2023-06-06 220404](https://github.com/Hors3Jock3y/RA-Rich-Presence-script-UDL-for-Notepadplusplus/assets/135405178/67f0cc04-daee-499c-94de-c38e8f16a85d)
+
+<sub>Psudo RP Script</sub>
 
 # Files Included In Releases
 * The main UDL file RARPUDL-(version number).XML
